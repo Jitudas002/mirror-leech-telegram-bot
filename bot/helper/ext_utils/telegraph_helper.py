@@ -57,4 +57,4 @@ class TelegraphHelper:
 			return self.edit_page(path, title, content)
 
 
-telegraph=TelegraphHelper('Torrent/Leech downloaded', 'https://t.me/torrent_drive1')
+telegraph=TelegraphHelper('Torrent/Leech-downloaded', 'https://t.me/torrent_drive1')
