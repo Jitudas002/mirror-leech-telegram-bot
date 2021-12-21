@@ -1,9 +1,9 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = '👇🎂🍿😒☠️🍿'
-        self.UnzipMirrorCommand = '☠️☠️☠️☠️'
-        self.ZipMirrorCommand = '☠️☠️☠️'
+        self.MirrorCommand = 'q2tygdyh'
+        self.UnzipMirrorCommand = 'yigbkd'
+        self.ZipMirrorCommand = '57ryd'
         self.CancelMirror = 'cancel'
         self.CancelAllCommand = 'cancelall'
         self.ListCommand = 'list'
