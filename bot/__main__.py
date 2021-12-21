@@ -116,9 +116,9 @@ help_string_telegraph = f'''<br>
 <br><br>
 <b>/{BotCommands.QbUnzipLeechCommand}</b> [magnet_link][torrent_file][torrent_file_url]: Start leeching to Telegram using qBittorrent and upload the file/folder extracted from any archive extension
 <br><br>
-<b>/{BotCommands.LeechWatchCommand}</b> [yt-dlp supported link]: Leech supported link <code>xvideos.com, pornhub.com</code>, <b>xhamster3.com</b> or more yt-dlp supported sites... <b>(Note only free or Public videos can leeching)</b> 
+<b>/{BotCommands.LeechWatchCommand}</b> [yt-dlp supported link]: Leech supported link <code>xvideos.com, pornhub.com, xhamster3.com</code> or more yt-dlp supported sites... <code>(Note only free or Public videos can leeching)</code> 
 <br><br>
-<b>/{BotCommands.LeechZipWatchCommand}</b> [yt-dlp supported link]: Leech supported link <b>xvideos.com</b>, <b>pornhub.com</b>, <b>xhamster3.com</b> or more yt-dlp supported sites...<b>(Free and public videos only)</b> as zip
+<b>/{BotCommands.LeechZipWatchCommand}</b> [yt-dlp supported link]: Leech supported link <code>xvideos.com, pornhub.com, xhamster3.com</code> or more yt-dlp supported sites... <code>(Free and public videos only)</code> as zip
 <br><br>
 <b>/{BotCommands.LeechSetCommand}</b>: Leech settings
 <br><br>
