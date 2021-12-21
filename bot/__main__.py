@@ -177,6 +177,7 @@ help = telegraph.create_page(
     )["path"]
 
 help_string = f'''
+Bot Commands
 '''
 
 def bot_help(update, context):
