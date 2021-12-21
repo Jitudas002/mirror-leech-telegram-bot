@@ -141,7 +141,7 @@ help = telegraph.create_page(
     )["path"]
 
 help_string = f'''
-<b>All Commands Are Here馃憞</b>
+<b>All Commands Are Here👇</b>
 '''
 
 def bot_help(update, context):
