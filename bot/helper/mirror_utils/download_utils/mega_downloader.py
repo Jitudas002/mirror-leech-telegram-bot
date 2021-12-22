@@ -175,7 +175,7 @@ class MegaDownloadHelper:
             msg3 = f'Failed, Zip/Unzip limit is {ZIP_UNZIP_LIMIT}GB.\nYour File/Folder size is {get_readable_file_size(api.getSize(node))}.'
             limit = ZIP_UNZIP_LIMIT
         elif MEGA_LIMIT is not None:
-            msg3 = f'Failed, Mega limit is {MEGA_LIMIT}GB.\nYour File/Folder size is {get_readable_file_size(api.getSize(node))}.'
+            msg3 = f'Failed, Sorry😔 I Cannot Afford Mega Premium, Limit Is {MEGA_LIMIT}GB Only For Every 6 Hours.'
             limit = MEGA_LIMIT
         if limit is not None:
             LOGGER.info('Checking File/Folder Size...')
