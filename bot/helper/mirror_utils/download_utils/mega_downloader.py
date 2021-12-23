@@ -140,7 +140,7 @@ class MegaDownloadHelper:
     @new_thread
     def add_download(mega_link: str, path: str, listener):
         executor = AsyncExecutor()
-        api = MegaApi(MEGA_API_KEY, None, None, 'mirror-leech-telegram-bot')
+        api = MegaApi(MEGA_API_KEY, None, None, 'leech-telegram-bot')
         mega_listener = MegaAppListener(executor.continue_event, listener)
         api.addListener(mega_listener)
         if MEGA_EMAIL_ID is not None and MEGA_PASSWORD is not None:
